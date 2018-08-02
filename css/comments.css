@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+div#comment_container {
+    background-color: #29ABE2;
+    border: 5px solid #BDBDBD;
+    padding: 9px;
+    float: left;
+    clear: both;
+    color: #FFF;
+    font-family: candara;
+    margin-bottom: 10px;
+}
+div#comment_content {
+    font-size: 17px;
+    margin: 5px;
+}
+div#reply_button {
+    width: 77px;
+    height: 24px;
+    background-color: #B1B0B0;
+    cursor: pointer;
+    text-align: center;
+    color: rgb(77, 80, 80);
+    padding: 2px;
+}
+div#reply_button a {
+    text-decoration: none;
+    color: rgb(75, 74, 73);
+}
+div#reply_button:hover {
+    background-color: #fff;
+}
+div#comment_heading {
+    color: rgb(73, 68, 68);
+    text-transform: capitalize;
+}
+span#comment_label {
+    clear: both;
+    float: left;
+    font-size: 24px;
+}
+span#reply_lab {
+    float: left;
+    margin-left: 31px;
+    margin-top: 14px;
+    color: rgb(83, 82, 82);
+}
+span#reply_cont {
+    clear: both;
+    float: left;
+    margin-left: 70px;
+}
+div#reply_content {
+    clear: both;
+}

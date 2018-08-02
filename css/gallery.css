@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+.image_two img {
+    margin: 10px;
+}
+.image_one img {
+    margin: 10px;
+}
+div.image_one {
+    float: left;
+}
+div.image_two {
+    float: left;
+}
+div.gallery_first_row {
+    clear: both;
+    margin: auto;
+}
+div.gallery_second_row {
+    clear: both;
+    margin: auto;
+}
+div#gallery_top {
+    float: left;
+}
+div#right_gallery_content {
+    float: right;
+}
+#right_gallery_content .margin_bar {
+    margin-top: 60px;
+}
+#gal_container #new_title_review {
+    background-color: #29ABE2;  padding: 8px;  font-size: 21px;  color: #fff;
+}
+div#gal_enclosure {
+    float: left;
+}
+div#ad_enclosure {
+    float: right;
+}
+#gal_container #heading_news_review {
+    font-size: 31px;  margin-top: 15px;  color: #3D7A84;
+}
